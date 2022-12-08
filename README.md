@@ -19,28 +19,28 @@ This project was built using the following technologies:
 - [Git Version Control](https://git-scm.com/) - free and open source software for distributed version control. 
 
 ## Installation and initializing
-Assignment requires: 
-- [Python](https://www.python.org/downloads/) v3+.
-- [MySQL](https://dev.mysql.com/downloads/mysql/) v8+ for MacOS or [MySQL](https://dev.mysql.com/downloads/installer/) v8+ for Microsoft Windows.
-- [MySQL Connector/Python](https://dev.mysql.com/doc/connector-python/en/connector-python-installation-binary.html) (installation with pip refereed below).
-- [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) v8+ (Recommended)
-- [Git](https://git-scm.com/downloads) v2.38+ Version Control (Recommended).
+- Requires: 
+    - [Python](https://www.python.org/downloads/) v3+.
+    - [MySQL](https://dev.mysql.com/downloads/mysql/) v8+ for MacOS or [MySQL](https://dev.mysql.com/downloads/installer/) v8+ for Microsoft Windows.
+    - [MySQL Connector/Python](https://dev.mysql.com/doc/connector-python/en/connector-python-installation-binary.html) (installation with pip refereed below).
+    - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) v8+ (Recommended)
+    - [Git](https://git-scm.com/downloads) v2.38+ Version Control (Recommended).
 
-Open your favorite Terminal and run these commands.
+- Open your favorite Terminal and run these commands:
 
-- Install MySQL Connector/Python:
+    - Install MySQL Connector/Python:
+    
+     ```sh
+    pip install mysql-connector-python
+    ```
 
-```sh
-pip install mysql-connector-python
-```
+    - Clone the repository with the git command:
+    
+    ```sh
+    git clone https://github.com/Maan-Khedr-ENSF-300/museum-project-team-18.git
+    ```
 
-- Clone the repository with the git command:
-
-```sh
-git clone https://github.com/Maan-Khedr-ENSF-300/assignment-5-olympicarchery-application-team-18.git
-```
-
-To run this program:
-- Open the terminal from your favorite IDE
-- Make it full screen for a better experience (recommended)
-- Run the python file main.py 
+- To run this program:
+    - Open the terminal from your favorite IDE
+    - Make it full screen for a better experience (recommended)
+    - Run the python file main.py 

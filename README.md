@@ -1,6 +1,6 @@
 # Olympic Archery Database 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Socials
 - GitHub: [Axeloooo](https://github.com/Axeloooo)
@@ -37,7 +37,7 @@ This project was built using the following technologies:
     - Clone the repository with the git command:
     
     ```sh
-    git clone https://github.com/Maan-Khedr-ENSF-300/museum-project-team-18.git
+    git clone https://github.com/Axeloooo/Olympic-Archery-Database.git
     ```
 
 - To run this program:
